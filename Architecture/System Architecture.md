@@ -28,3 +28,6 @@ Finally, the system interacts with the real world by sending commands directly t
 
 ## Expected Impact
 By automating incident detection and traffic flow adjustments, the system aims to reduce overall congestion, lower vehicle emissions, and minimize the likelihood of secondary accidents occurring near an initial crash site.
+
+
+<img width="1355" height="683" alt="image" src="https://github.com/user-attachments/assets/f905881b-2b8d-4d6e-8781-bcedcd5f282c" />
